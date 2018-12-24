@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ashley Photography</title>
+    <description>Simple Portfolio.</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 23 Dec 2018 18:17:05 -0800</pubDate>
+    <lastBuildDate>Sun, 23 Dec 2018 18:17:05 -0800</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Project 9</title>
+        <description>
+</description>
+        <pubDate>Thu, 17 Jul 2014 00:00:00 -0700</pubDate>
+        <link>/2014/07/17/project-9/</link>
+        <guid isPermaLink="true">/2014/07/17/project-9/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Project 8</title>
+        <description>
+</description>
+        <pubDate>Thu, 17 Jul 2014 00:00:00 -0700</pubDate>
+        <link>/2014/07/17/project-8/</link>
+        <guid isPermaLink="true">/2014/07/17/project-8/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Project 7</title>
+        <description>
+</description>
+        <pubDate>Thu, 17 Jul 2014 00:00:00 -0700</pubDate>
+        <link>/2014/07/17/project-7/</link>
+        <guid isPermaLink="true">/2014/07/17/project-7/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Project 6</title>
+        <description>
+</description>
+        <pubDate>Thu, 17 Jul 2014 00:00:00 -0700</pubDate>
+        <link>/2014/07/17/project-6/</link>
+        <guid isPermaLink="true">/2014/07/17/project-6/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Project 5</title>
+        <description>
+</description>
+        <pubDate>Thu, 17 Jul 2014 00:00:00 -0700</pubDate>
+        <link>/2014/07/17/project-5/</link>
+        <guid isPermaLink="true">/2014/07/17/project-5/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Project 4</title>
+        <description>
+</description>
+        <pubDate>Thu, 17 Jul 2014 00:00:00 -0700</pubDate>
+        <link>/2014/07/17/project-4/</link>
+        <guid isPermaLink="true">/2014/07/17/project-4/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Project 3</title>
+        <description>
+</description>
+        <pubDate>Thu, 17 Jul 2014 00:00:00 -0700</pubDate>
+        <link>/2014/07/17/project-3/</link>
+        <guid isPermaLink="true">/2014/07/17/project-3/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Project 2</title>
+        <description>
+</description>
+        <pubDate>Thu, 17 Jul 2014 00:00:00 -0700</pubDate>
+        <link>/2014/07/17/project-2/</link>
+        <guid isPermaLink="true">/2014/07/17/project-2/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Project 15</title>
+        <description>
+</description>
+        <pubDate>Thu, 17 Jul 2014 00:00:00 -0700</pubDate>
+        <link>/2014/07/17/project-15/</link>
+        <guid isPermaLink="true">/2014/07/17/project-15/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Project 13</title>
+        <description>
+</description>
+        <pubDate>Thu, 17 Jul 2014 00:00:00 -0700</pubDate>
+        <link>/2014/07/17/project-13/</link>
+        <guid isPermaLink="true">/2014/07/17/project-13/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
